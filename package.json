@@ -1,0 +1,10 @@
+{
+  "name": "phaser-poc",
+  "version": "0.0.1",
+  "main": "app.js",
+  "author": "Gary Velasquez <gary.velasquez.lopez@gmail.com>",
+  "private": true,
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
